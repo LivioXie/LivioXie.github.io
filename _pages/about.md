@@ -25,7 +25,7 @@ I am a Computer Science student at the University at Albany, expected to graduat
 
 # 💻 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Full-Stack Development</div><img src='INNOVATICKET.png' alt="Innova Tickets" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Full-Stack Development</div><img src='images/INNOVATICKET.png' alt="Innova Tickets" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Innova Tickets – Full-Stack Ticketing Platform]

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : ""
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Student at University at Albany Major in computer science with a minor in informatics "
 repository               : "LivioXie/LivioXieLu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/LivioXie"
+  github           : "LivioXie"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/livio-xie-lu-866150332"
+  linkedin         : "Livio Xie Lu"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
