@@ -24,12 +24,13 @@ I am a Computer Science student at the University at Albany, graduate in May 202
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Full-Stack Development</div><img src='images/INNOVATICKET.png' alt="Innova Tickets" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Innova Tickets – Full-Stack Ticketing Platform]
-<a href="/images/M9Report.pdf" target="_blank">[Project Report]</a> <a href="https://www.innovamuseums.com" target="_blank">[Sponsor Website]</a>
+[Innova Tickets – Full-Stack Ticketing Platform] 
 <span style="float:right;">
-          <i>January 2025 - May 2025</i>
-        </span>
+  <i>January 2025 - May 2025</i>
+</span>
+<a href="/images/M9Report.pdf" target="_blank">[Project Report]</a> <a href="https://www.innovamuseums.com" target="_blank">[Sponsor Website]</a>
         <i>Course Project of Capstone (ICSI-499)</i>
+        <br></br>
 Designed and implemented the complete user interface for the Innova Tickets event management app using React Native, ensuring seamless cross-platform functionality on both iOS and Android devices. Developed detailed user flows and high-fidelity prototypes in Figma, optimizing layouts for mobile phones and tablets. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established secure API communication with the Node.js back-end. Coordinated development tasks, managed version control, and resolved merge conflicts collaboratively using Git throughout the project lifecycle.
 </div>
 </div>
