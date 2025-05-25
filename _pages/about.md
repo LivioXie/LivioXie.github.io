@@ -29,7 +29,6 @@ I am a Computer Science student at the University at Albany, graduate in May 202
   <i>January 2025 - May 2025</i>
 </span>
 <a href="/images/M9Report.pdf" target="_blank">[Project Report]</a> <a href="https://www.innovamuseums.com" target="_blank">[Sponsor Website]</a>
-<br>
         <i>Course Project of Capstone (ICSI-499)</i>
         <br>
 Designed and implemented the complete user interface for the Innova Tickets event management app using React Native, ensuring seamless cross-platform functionality on both iOS and Android devices. Developed detailed user flows and high-fidelity prototypes in Figma, optimizing layouts for mobile phones and tablets. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established secure API communication with the Node.js back-end. Coordinated development tasks, managed version control, and resolved merge conflicts collaboratively using Git throughout the project lifecycle.
@@ -37,7 +36,6 @@ Designed and implemented the complete user interface for the Innova Tickets even
 </div>
 
 - [Operating System Simulator – Java] <a href="https://github.com/LivioXie/OperationSystem" target="_blank">[Project Page]</a>
-<br>
 <span style="float:right;">
           <i>January 2024 - May 2024</i>
         </span>
