@@ -25,10 +25,11 @@ I am a Computer Science student at the University at Albany, graduate in May 202
 <div class='paper-box-text' markdown="1">
 
 [Innova Tickets – Full-Stack Ticketing Platform] 
+<a href="/images/M9Report.pdf" target="_blank">[Project Report]</a> <a href="https://www.innovamuseums.com" target="_blank">[Sponsor Website]</a>
 <span style="float:right;">
   <i>January 2025 - May 2025</i>
 </span>
-<a href="/images/M9Report.pdf" target="_blank">[Project Report]</a> <a href="https://www.innovamuseums.com" target="_blank">[Sponsor Website]</a>
+<br>
         <i>Course Project of Capstone (ICSI-499)</i>
         <br>
 Designed and implemented the complete user interface for the Innova Tickets event management app using React Native, ensuring seamless cross-platform functionality on both iOS and Android devices. Developed detailed user flows and high-fidelity prototypes in Figma, optimizing layouts for mobile phones and tablets. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established secure API communication with the Node.js back-end. Coordinated development tasks, managed version control, and resolved merge conflicts collaboratively using Git throughout the project lifecycle.
@@ -45,7 +46,6 @@ Designed and implemented the complete user interface for the Innova Tickets even
 I developed a Java-based operating system simulation that demonstrates key OS concepts, including process management, virtual memory with paging and swapping, device and file I/O, and inter-process communication. This project features modular, object-oriented design, supports dynamic memory allocation and protection, and uses Java threads to simulate process execution and scheduling. I also created test programs to verify the correctness and robustness of your system’s core functionalities.
 
 - [GAN-Based Puzzle Generator and AI Solver] <a href="https://github.com/LivioXie/PuzzleSolving" target="_blank">[Project Page]</a>
-<br>
  <span style="float:right;">
           <i>August 2024 - December 2024</i>
         </span>
@@ -55,7 +55,6 @@ I developed a Java-based operating system simulation that demonstrates key OS co
  I designed and implemented a comprehensive Python project for 3x3 sliding puzzles, featuring both classic and AI-based solutions. My work included developing algorithms to generate random and solvable puzzles, implementing an efficient A* search solver, and building a Generative Adversarial Network (GAN) using TensorFlow and Keras to create new puzzle configurations. I ensured the validity and solvability of generated puzzles through post-processing, and developed a Pygame-based graphical interface for step-by-step visualization. 
 
 - [ShankInterpreter – Language Interpreter] <a href="https://github.com/LivioXie/ShankInterpreter" target="_blank">[Project Page]</a>
-<br>
  <span style="float:right;">
           <i>August 2024 - December 2024</i>
         </span>
