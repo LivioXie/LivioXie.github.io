@@ -17,22 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Computer Science student at the University at Albany, graduate in May 2025. I have practical experience in full-stack development, operating systems, and AI projects. I'm skilled in Java, Python, JavaScript, and React Native, with a specialization in front-end development and UI/UX design. I am seeking a software engineering role where I can apply my technical skills, collaborate with a team, and continue learning. I am fluent in English, Spanish, and Chinese.
+I am a Computer Science student at the University at Albany, graduate in May 2025. I have practical experience in full-stack development, operating systems, and AI projects. I'm skilled in Java, JavaScript, and React Native, with a specialization in front-end development and UI/UX design. I am seeking a software engineering role where I can apply my technical skills, collaborate with a team, and continue learning. I am fluent in English, Spanish, and Chinese.
 
 # 💻 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Full-Stack Development</div><img src='images/INNOVATICKET.png' alt="Innova Tickets" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Full-Stack Development</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Innova Tickets – Full-Stack Ticketing Platform] 
-<a href="/images/M9Report.pdf" target="_blank">[Project Report]</a> <a href="https://www.innovamuseums.com" target="_blank">[Sponsor Website]</a>
+[Full-Stack] 
+<a href="https://www.innovamuseums.com" target="_blank">[Sponsor Website]</a>
 <span style="float:right;">
   <i>January 2025 - May 2025</i>
 </span>
 <br>
         <i>Course Project of Capstone (ICSI-499)</i>
         <br>
-Designed and implemented the complete user interface for the Innova Tickets event management app using React Native, ensuring seamless cross-platform functionality on both iOS and Android devices. Developed detailed user flows and high-fidelity prototypes in Figma, optimizing layouts for mobile phones and tablets. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established secure API communication with the Node.js back-end. Coordinated development tasks, managed version control, and resolved merge conflicts collaboratively using Git throughout the project lifecycle.
+Designed and implemented the complete user interface for an event management app using React Native, ensuring seamless cross-platform functionality on both iOS and Android devices. Developed detailed user flows and high-fidelity prototypes in Figma, optimizing layouts for mobile phones and tablets. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established API communication with the Node.js back-end. Coordinated development tasks, managed version control, and resolved merge conflicts collaboratively using Git throughout the project lifecycle.
 </div>
 </div>
 
