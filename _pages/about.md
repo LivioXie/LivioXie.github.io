@@ -29,7 +29,7 @@ I am a Computer Science student at the University at Albany, graduate in May 202
 <br>
         <i>Course Project of Capstone (ICSI-499)</i>
         <br>
-Designed and implemented the complete user interface for an event management app using React Native, ensuring seamless cross-platform functionality on both iOS and Android devices. Developed detailed user flows and high-fidelity prototypes in Figma, optimizing layouts for mobile phones and tablets. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established API communication with the Node.js back-end. Coordinated development tasks, managed version control, and resolved merge conflicts collaboratively using Git throughout the project lifecycle.
+Designed and implemented the complete user interface for an event management app using React Native, ensuring seamless cross-platform functionality on both iOS and Android devices. Developed detailed user flows and high-fidelity prototypes in Figma, optimizing layouts for mobile phones and tablets. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established API communication with the Node.js back-end. Coordinated development tasks, managed version control, and resolved merge conflicts collaboratively using Git during the project. 
 </div>
 </div>
 
@@ -72,7 +72,7 @@ This project supports essential language features including functions, variables
       <img src="/images/ualbanylogo.jpg" style="width:100%; max-width:315px; border:1vw solid transparent;" alt="UAlbany Logo"/>
     </div>
     <div style="width:60%;float:left;padding-left:20px;">
-      <p><strong>2021.09 - 2025.05</strong>, University at Albany, Bachelor of Science in Computer Science</p>
+      <p><strong>2021.08 - 2025.05</strong>, University at Albany, Bachelor of Science in Computer Science</p>
       <p>Relevant Coursework: Data Structures & Algorithms, Software Engineering, Operating Systems, Database Systems, Computer Communication Networks, Artificial Intelligence, Programming Languages, System Fundamentals</p>
     </div>
   </div>
