@@ -29,7 +29,7 @@ I am a Computer Science student at the University at Albany, graduate in May 202
 <br>
         <i>Course Project of Capstone (ICSI-499)</i>
         <br>
-Designed and implemented the complete user interface for an event management app using React Native, ensuring seamless cross-platform functionality on both iOS and Android devices. Developed detailed user flows and high-fidelity prototypes in Figma, optimizing layouts for mobile phones and tablets. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established API communication with the Node.js back-end. Coordinated development tasks, managed version control, and resolved merge conflicts collaboratively using Git during the project.
+I designed and implemented the user interface for an event management app using React Native, ensuring seamless cross-platform functionality on both IOS and Android devices. Developed detailed user flows and high-fidelity prototypes using Figma, optimizing layouts for mobile phones. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established API commuication with the Node.js back-end. Coordinated development tasks, managed version control, and resovled merge conflicts collaboratively using Git during the project.
 
 - [Operating System Simulator – Java] <a href="https://github.com/LivioXie/OperationSystem" target="_blank">[Project Page]</a>
 <span style="float:right;">
