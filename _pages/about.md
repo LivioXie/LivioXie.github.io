@@ -21,14 +21,7 @@ I am a Computer Science student at the University at Albany, graduate in May 202
 
 # 💻 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Full-Stack Development</div></div></div>
-<div class='paper-box-text' markdown="1">
-
-<<<<<<< HEAD
-[Full-Stack] 
-=======
-[Innova Tickets – Full-Stack Ticketing Platform] 
->>>>>>> 5530d11525c5ded502243befede2483ad4bca31b
+- [Full Stack Project]
 <a href="https://www.innovamuseums.com" target="_blank">[Sponsor Website]</a>
 <span style="float:right;">
   <i>January 2025 - May 2025</i>
