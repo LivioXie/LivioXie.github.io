@@ -29,9 +29,7 @@ I am a Computer Science student at the University at Albany, graduate in May 202
 <br>
         <i>Course Project of Capstone (ICSI-499)</i>
         <br>
-Designed and implemented the complete user interface for an event management app using React Native, ensuring seamless cross-platform functionality on both iOS and Android devices. Developed detailed user flows and high-fidelity prototypes in Figma, optimizing layouts for mobile phones and tablets. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established API communication with the Node.js back-end. Coordinated development tasks, managed version control, and resolved merge conflicts collaboratively using Git during the project. 
-</div>
-</div>
+Designed and implemented the complete user interface for an event management app using React Native, ensuring seamless cross-platform functionality on both iOS and Android devices. Developed detailed user flows and high-fidelity prototypes in Figma, optimizing layouts for mobile phones and tablets. Programmed real-time ticket tracking features, integrated QR code scanning for event check-in and registration, and established API communication with the Node.js back-end. Coordinated development tasks, managed version control, and resolved merge conflicts collaboratively using Git during the project.
 
 - [Operating System Simulator – Java] <a href="https://github.com/LivioXie/OperationSystem" target="_blank">[Project Page]</a>
 <span style="float:right;">
@@ -40,7 +38,7 @@ Designed and implemented the complete user interface for an event management app
                 <br>
         <i>Course Project of Operating Systems (ICSI-412)</i>
         <br>
-I developed a Java-based operating system simulation that demonstrates key OS concepts, including process management, virtual memory with paging and swapping, device and file I/O, and inter-process communication. This project features modular, object-oriented design, supports dynamic memory allocation and protection, and uses Java threads to simulate process execution and scheduling. I also created test programs to verify the correctness and robustness of your system’s core functionalities.
+I developed a Java-based operating system simulation that demonstrates key OS concepts, including process management, virtual memory with paging and swaping, device and file I/O, and inter-process communication. This project features modular, object-oriented design, supports dynamic memory allocation and protection, and uses Java threads to simulate process execution and scheduling. I also created test programs to verify the correctness and robustness of the system's core functionalities.
 
 - [GAN-Based Puzzle Generator and AI Solver] <a href="https://github.com/LivioXie/PuzzleSolving" target="_blank">[Project Page]</a>
  <span style="float:right;">
@@ -84,7 +82,7 @@ This project supports essential language features including functions, variables
 - **Web Development**: HTML, CSS, React.js, Node.js
 - **App Development**: React Native, TypeScript
 - **Databases**: MongoDB
-- **Tools & Technologies**: Git
+- **Tools & Technologies**: Git, Github
 - **Others Skills**: Communication, Teamwork, Adaptability, Critical Thinking, Documentation, Presentation, Time Management, Problem Solving
 - **Languages**: English (Fluent), Spanish (Fluent), Chinese (Fluent)
 
